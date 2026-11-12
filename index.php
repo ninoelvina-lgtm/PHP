@@ -135,17 +135,17 @@ $currentYear = date("Y");
         <h2>Profile Photo</h2>
         <p>Student Portfolio Website</p>
     </div>
-
-    <!-- About Me -->
-    <div class="card">
-        <h2>About Me</h2>
-        <p>
-            Hello! My name is <?php echo $fullName; ?>. I am currently
-            studying <?php echo $course; ?> and have a passion for
-            programming, web development, and technology. I enjoy learning
-            new skills and creating useful projects.
-        </p>
-    </div>
+        
+        <!-- About Me -->
+        <div class="card">
+            <h2>About Me</h2>
+            <p>
+                Hello! My name is <?php echo $fullName; ?>. I am currently
+                studying <?php echo $course; ?> and have a passion for
+                programming, web development, and technology. I enjoy learning
+                new skills and creating useful projects.
+            </p>
+        </div>
 
     <!-- Educational Background -->
     <div class="card">

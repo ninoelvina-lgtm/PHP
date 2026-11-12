@@ -3,8 +3,7 @@
 // PHP Variables
 // ======================
 $fullName = "Niño Elvin Alidon";
-$course = "BS Information Technology";
-$school = "MATER DEI COLLEGE";
+$course = "BS Information Technology at (MATER DEI COLLEGE)";
 $email = "nylepakak0@gmail.com";
 $phone = "+1234567891011";
 
@@ -156,7 +155,7 @@ $currentYear = date("Y");
             <li>Junior High School Graduate(Nahawan National High School)</li>
             <li>Senior High School Graduate(Presentation of Mary School of Clarin Inc.)</li>
             <li>Currently taking <?php echo $course; ?></li>
-            <li><?php echo $school; ?></li>
+            
         </ul>
     </div>
 

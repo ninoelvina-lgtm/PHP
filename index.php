@@ -124,7 +124,7 @@ $currentYear = date("Y");
 
 <header>
     <h1><?php echo $fullName; ?></h1>
-    <p><?php echo $course; ?></p>
+    <p>Currently Studying at Mater Dei College</p>
 </header>
 
 <div class="container">

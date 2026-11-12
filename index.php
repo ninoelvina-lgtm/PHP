@@ -152,9 +152,9 @@ $currentYear = date("Y");
     <div class="card">
         <h2>Educational Background</h2>
         <ul>
-            <li>Elementary Graduate</li>
-            <li>Junior High School Graduate</li>
-            <li>Senior High School Graduate</li>
+            <li>Elementary Graduate(Nahawan Elementary School)</li>
+            <li>Junior High School Graduate(Nahawan National High School)</li>
+            <li>Senior High School Graduate(Presentation of Mary School of Clarin Inc.)</li>
             <li>Currently taking <?php echo $course; ?></li>
             <li><?php echo $school; ?></li>
         </ul>

@@ -10,13 +10,14 @@ $phone = "+1234567891011";
 $skills = ["HTML5", "CSS3", "PHP", "Java", "GitHub"];
 $hobbies = ["Coding", "Gaming", "Reading", "Music", "Basketball"];
 
-$currentYear = date("Y");
+$currentYear = date("2026-2027");
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $fullName; ?> | Personal Profile</title>
 
@@ -154,6 +155,7 @@ $currentYear = date("Y");
             <li>Junior High School Graduate(Nahawan National High School)</li>
             <li>Senior High School Graduate(Presentation of Mary School of Clarin Inc.)</li>
             <li>Currently taking <?php echo $course; ?></li>
+            <li><?php echo "$currentYear"?></li>
             
         </ul>
     </div>

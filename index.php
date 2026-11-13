@@ -8,7 +8,7 @@ $email = "nylepakak0@gmail.com";
 $phone = "+1234567891011";
 
 $skills = ["HTML5", "CSS3", "PHP", "Java", "GitHub"];
-$hobbies = ["Coding", "Gaming", "Reading", "Music", "Basketball"];
+$hobbies = ["Coding", "Gaming", "Reading", "Music", "Basketball", "Editing"];
 
 $currentYear = date("2026-2027");
 ?>

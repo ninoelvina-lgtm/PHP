@@ -130,7 +130,7 @@ $currentYear = date("2026-2027");
 
     <!-- Profile Photo -->
     <div class="card profile">
-        <img src="https://raw.githubusercontent.com/ninoelvina-lgtm/webimage/main/1000081350.jpg" alt="Profile Photo">
+        <img src="nicup.png" alt="Profile Photo">
         <h2>Profile Photo</h2>
         <p>Student Portfolio Website</p>
     </div>
